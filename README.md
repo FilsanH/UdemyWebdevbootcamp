@@ -1,8 +1,5 @@
 # UdemyWebdevbootcamp
 
-<!-- PROJECT LOGO -->
-<br />
-
 ## Goal
 Explore both front-end and back-end web development by completing webdevelopment Udemy Course.
 
